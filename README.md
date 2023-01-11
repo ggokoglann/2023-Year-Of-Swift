@@ -13,3 +13,6 @@ Today was the 24th day of 100 days of swift course, so i made the 4th project of
 
 09.01.2023_
 It's been 4 days of not activity because of final exams and stage perfonmance, coming bact to swift feels nice , today i completed the day 25 and 26, also the challenges at day 26, was not that hard but it take some time and googleing to get over it.
+
+11.01.2023_
+Today was the 27.Day of 100 days of swift and today i started the project 5. in project 5 the first thing i learned is reading strings from a text file and putting them into an array.
