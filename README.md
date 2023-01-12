@@ -16,3 +16,6 @@ It's been 4 days of not activity because of final exams and stage perfonmance, c
 
 11.01.2023_
 Today was the 27.Day of 100 days of swift and today i started the project 5. in project 5 the first thing i learned is reading strings from a text file and putting them into an array.
+
+12.01.2023_
+Today was the 28.Day of 100 days of swift and i done the project 5 / day 2. i learned a new ui kit element wich is uitextchecker wich checks strings in preferred languages.
