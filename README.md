@@ -19,3 +19,6 @@ Today was the 27.Day of 100 days of swift and today i started the project 5. in 
 
 12.01.2023_
 Today was the 28.Day of 100 days of swift and i done the project 5 / day 2. i learned a new ui kit element wich is uitextchecker wich checks strings in preferred languages.
+
+13.01.2023_
+Today was the 29.Day of 100 days of swift and i done project 5 / day 3. Challenges, today i proud of myself because i have done all the challenges without googleing. today was the first day that i said , i guess im learning something.
