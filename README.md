@@ -22,3 +22,6 @@ Today was the 28.Day of 100 days of swift and i done the project 5 / day 2. i le
 
 13.01.2023_
 Today was the 29.Day of 100 days of swift and i done project 5 / day 3. Challenges, today i proud of myself because i have done all the challenges without googleing. today was the first day that i said , i guess im learning something.
+
+14.01.2023_
+Today was the 29.Day of 100 days of swift and i done project 6 / day 1. , for the project 6 , first i modified the project 2's auto layout to work in landscape mod in project6a then i learn creating ui in code in project6b.
