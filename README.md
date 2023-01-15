@@ -25,3 +25,6 @@ Today was the 29.Day of 100 days of swift and i done project 5 / day 3. Challeng
 
 14.01.2023_
 Today was the 29.Day of 100 days of swift and i done project 6 / day 1. , for the project 6 , first i modified the project 2's auto layout to work in landscape mod in project6a then i learn creating ui in code in project6b.
+
+15.01.2023_
+31.day of the 100 days of swift and today i completed project 6 / day 2 , and i learned using auto layout in code and how to use anchors.
