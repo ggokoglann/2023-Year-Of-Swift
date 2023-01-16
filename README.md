@@ -28,3 +28,6 @@ Today was the 29.Day of 100 days of swift and i done project 6 / day 1. , for th
 
 15.01.2023_
 31.day of the 100 days of swift and today i completed project 6 / day 2 , and i learned using auto layout in code and how to use anchors.
+
+16.01.2023_
+32.Day of the 100 days of swift and today was the consolitaion day for last 3 projects, and there was a challenge of making an app from scrath. so i made my first app without any help, i just looked my old projects codes when i struggle.  
