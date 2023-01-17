@@ -31,3 +31,6 @@ Today was the 29.Day of 100 days of swift and i done project 6 / day 1. , for th
 
 16.01.2023_
 32.Day of the 100 days of swift and today was the consolitaion day for last 3 projects, and there was a challenge of making an app from scrath. so i made my first app without any help, i just looked my old projects codes when i struggle.  
+
+17.01.2023_
+Today was the 33.day of the 100 days of swift challenge and today i started the project 7. learned a new thing called json today and it is short for javascript object notation wich is. a data transfer method. in project 7 we are getting the data from the source and showing it on a tableview and detail view.
