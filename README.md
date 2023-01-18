@@ -34,3 +34,7 @@ Today was the 29.Day of 100 days of swift and i done project 6 / day 1. , for th
 
 17.01.2023_
 Today was the 33.day of the 100 days of swift challenge and today i started the project 7. learned a new thing called json today and it is short for javascript object notation wich is. a data transfer method. in project 7 we are getting the data from the source and showing it on a tableview and detail view.
+
+18.01.2023_
+at 34. day of a challenge today and i done the project 7 / day 2. in day 2 we made an most popular petitions tab to our app. and dame a function that gives an alert when some error happens in loading.
+
