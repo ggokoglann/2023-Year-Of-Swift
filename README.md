@@ -38,3 +38,6 @@ Today was the 33.day of the 100 days of swift challenge and today i started the 
 18.01.2023_
 at 34. day of a challenge today and i done the project 7 / day 2 and 3 in same day. in day 2 we made an most popular petitions tab to our app. and dame a function that gives an alert when some error happens in loading. in day 3 i completed challenges. fist challenge was adding a credits button to navigation bar which shows where this data comes from and the second challenge was bit harder. at second challenge i add a filter button which shows an text field to the user and user can filter a word from the all petitons. at the second chalenge i needed some help. 
 
+19.01.2023_
+Today was the 36.Day of the 100 days of swift challenge and today i started the project 8 and i made an ui with buttons, labels and textfields in code using auto layout constraits.
+
