@@ -41,3 +41,6 @@ at 34. day of a challenge today and i done the project 7 / day 2 and 3 in same d
 19.01.2023_
 Today was the 36.Day of the 100 days of swift challenge and today i started the project 8 and i made an ui with buttons, labels and textfields in code using auto layout constraits.
 
+25.01.2023_
+It's been 5 days since last time i code so it was little bit hard to get on track again so i struggle little bit but ni problems at all today was the 36. day of the challenge and i completed the project 8.
+
