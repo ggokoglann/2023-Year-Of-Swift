@@ -44,3 +44,6 @@ Today was the 36.Day of the 100 days of swift challenge and today i started the 
 25.01.2023_
 It's been 5 days since last time i code so it was little bit hard to get on track again so i struggle little bit but ni problems at all today was the 36. day of the challenge and i completed the project 8.
 
+26.01.2023_
+Today was the 38.Day of the challenge and i have completed the project 8 challenges. i figured out all 3 challenges by myself withoud any googleing so im very happy.
+
