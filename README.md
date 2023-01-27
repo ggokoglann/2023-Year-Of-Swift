@@ -47,3 +47,5 @@ It's been 5 days since last time i code so it was little bit hard to get on trac
 26.01.2023_
 Today was the 38.Day of the challenge and i have completed the project 8 challenges. i figured out all 3 challenges by myself withoud any googleing so im very happy.
 
+27.01.2023_
+Today was the 39.Day of the challenge and i started project 9. today i learned what is gcd and how to use it.
