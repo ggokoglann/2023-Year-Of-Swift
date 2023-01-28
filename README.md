@@ -49,3 +49,6 @@ Today was the 38.Day of the challenge and i have completed the project 8 challen
 
 27.01.2023_
 Today was the 39.Day of the challenge and i started project 9. today i learned what is gcd and how to use it.
+
+28.01.2023_
+at the 40.Day of the challenge i learned GCD and with the todays challenges i made 3 updatesto my older projects. these updates is about pushing loading actions to background and doing all ui updates in main for quality of service.
