@@ -57,3 +57,5 @@ at the 40.Day of the challenge i learned GCD and with the todays challenges i ma
 its been 18 days since my last activity on github and swift, turkey hit by huge earthquake and slowed everything down. luckily i was not there. i am back, stronger than ever, started again, today was the 41. day challenge and after a long break i find out that i forgot a lot of things. its going to be tough ride 3-4 days before getting on track again. todays challenge was big i spend 3-4 hours to get over it eventualy i couldn't. then after geting some help from internet i made it to the end.
 
 27.02.2023_ Another 11 days of break has happend, during that time i focused on my  own job , after a week i am now starting fresh with march first. this was the 42. day of the challenge and i am getting closer to half way. i started project 10. i used collection view and learned hot to use it, it is like table view but different.
+
+01.03.2023_ Strong start to a month, today was the 43.day of the challenge and i completed the day 2 of project 10, today i added lots of things to the project and i learned to use uiimagepicker.
