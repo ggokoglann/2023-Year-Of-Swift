@@ -59,3 +59,5 @@ its been 18 days since my last activity on github and swift, turkey hit by huge 
 27.02.2023_ Another 11 days of break has happend, during that time i focused on my  own job , after a week i am now starting fresh with march first. this was the 42. day of the challenge and i am getting closer to half way. i started project 10. i used collection view and learned hot to use it, it is like table view but different.
 
 01.03.2023_ Strong start to a month, today was the 43.day of the challenge and i completed the day 2 of project 10, today i added lots of things to the project and i learned to use uiimagepicker.
+
+07.03.2023_ Today was the 44.Day of 100 days of swift challenge and today i completed the project 10 challenges, after a break it was not easy but with some help i completed. 
