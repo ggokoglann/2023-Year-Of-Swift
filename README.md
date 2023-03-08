@@ -61,3 +61,5 @@ its been 18 days since my last activity on github and swift, turkey hit by huge 
 01.03.2023_ Strong start to a month, today was the 43.day of the challenge and i completed the day 2 of project 10, today i added lots of things to the project and i learned to use uiimagepicker.
 
 07.03.2023_ Today was the 44.Day of 100 days of swift challenge and today i completed the project 10 challenges, after a break it was not easy but with some help i completed. 
+
+08.03.2023_ Today was the 45.Day of the challenge and i started the project 11. project 11 is a basic game im making using spritekit.
