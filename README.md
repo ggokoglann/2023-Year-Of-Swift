@@ -63,3 +63,5 @@ its been 18 days since my last activity on github and swift, turkey hit by huge 
 07.03.2023_ Today was the 44.Day of 100 days of swift challenge and today i completed the project 10 challenges, after a break it was not easy but with some help i completed. 
 
 08.03.2023_ Today was the 45.Day of the challenge and i started the project 11. project 11 is a basic game im making using spritekit.
+
+11.03.2023_ Today was the 46.Day of the challenge and i made some updates on project 11.
