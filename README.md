@@ -69,3 +69,5 @@ its been 18 days since my last activity on github and swift, turkey hit by huge 
 12.03.2023_ Today was the 47.Day of the challenge and i completed the project 11 and its 3 challenges.
 
 13.03.2023_ Day 48. NSCoding , Storing data with user defaults, today i also added side projects folder. in this folder i am going to upload my side projects that i made myself except the ones in 100 days of swift challenge.
+
+14.03.2023_ Day 49. Codable , using codable json decoder and encoder to reed and store data. and 3 challenges completed.
