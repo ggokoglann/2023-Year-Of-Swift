@@ -85,3 +85,5 @@ its been 18 days since my last activity on github and swift, turkey hit by huge 
 04.04.2023_Day 56. Project 14 Complete , Challenges
 
 10.04.2023_Day 57. Project 15 , Animations
+
+14.04.2023_Day 58. Project 15 Challenges , added animations to old projects
