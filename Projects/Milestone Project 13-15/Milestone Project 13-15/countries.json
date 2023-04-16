@@ -1,0 +1,27 @@
+
+[
+    {
+        "name": "United States",
+        "capital": "Washington, D.C.",
+        "size": 9833517,
+        "population": 331002651,
+        "currency": "US Dollar",
+        "language": "English"
+    },
+    {
+        "name": "China",
+        "capital": "Beijing",
+        "size": 9706961,
+        "population": 1403500365,
+        "currency": "Renminbi",
+        "language": "Mandarin"
+    },
+    {
+        "name": "India",
+        "capital": "New Delhi",
+        "size": 3287263,
+        "population": 1366417754,
+        "currency": "Indian Rupee",
+        "language": "Hindi, English"
+    }
+]
