@@ -89,3 +89,5 @@ its been 18 days since my last activity on github and swift, turkey hit by huge 
 14.04.2023_Day 58. Project 15 Challenges , added animations to old projects
 
 16.04.2023_Day 59. Milestone Project 13-15 done , i tried to use chat gpt this time. it is very good actualy but it has some room to improve. the code that chat gpt gaved me had some problems but after some clear expression it got better and i just done the coppying part
+
+17.04.2023_Day 60. Started project 16 , MapKit
